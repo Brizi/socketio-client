@@ -1,6 +1,8 @@
 [submodule "lib/websocketpp"]
 	path = lib/websocketpp
 	url = https://github.com/zaphoyd/websocketpp.git
+	branch = 1b11fd301531e6df35a6107c1e8665b1e77a2d8e
 [submodule "lib/rapidjson"]
 	path = lib/rapidjson
 	url = https://github.com/miloyip/rapidjson.git
+	branch = f56928de85d56add3ca6ae7cf7f119a42ee1585b
